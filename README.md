@@ -5,7 +5,7 @@ This Tetris was building with React Js.
 
 ## Preview of Project run
 
-![alt text](https://github.com/jonaferreira/tetris-react-js/blob/master/doc/img/printview.png?raw=true)
+![alt text](https://github.com/jonaferreira/tetris-react-js/blob/sources/doc/img/printview.png)
 
 ## Available Scripts
 In the project directory, you can run:
